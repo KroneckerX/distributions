@@ -4,16 +4,16 @@ Probability Distributions with R Language
 
 ## Discrete Probability Distributions
 
-* Bernoulli Distribution
+* [Bernoulli Distribution](discrete/bernoulli.R)
 
-* Binomial Distribution
+* [Binomial Distribution](discrete/binom.R)
 
-* Geometric Distribution
+* [Geometric Distribution](discrete/geometric.R)
 
-* Negative Binomial Distribution
+* [Negative Binomial Distribution](discrete/negativebinom.R)
 
-* Poisson Distribution
+* [Poisson Distribution](discrete/pois.R)
 
-* Hypergeometric Distribution
+* [Hypergeometric Distribution](discrete/hyper.R)
 
-* Discrete Uniform Distribution
+* [Discrete Uniform Distribution](discrete/unid.R)
