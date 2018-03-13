@@ -8,7 +8,7 @@ pbinom(x, size, prob)
 
 s <- seq(0, size, by=1)
 p <- dbinom(s, size, prob)
-plot(p, type="l")
+plot(p, type="o")
 
 
 library("fitdistrplus")
