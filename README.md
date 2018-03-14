@@ -17,3 +17,23 @@ Probability Distributions with R Language
 * [Hypergeometric Distribution](discrete/hyper.R)
 
 * [Discrete Uniform Distribution](discrete/unid.R)
+
+
+
+## Continuous Probability Distributions
+
+* [Chi-square Distribution](continuous/chi.R)
+
+* [Exponential Distribution](continuous/exp.R)
+
+* [F Distribution](continuous/f.R)
+
+* [Gamma Distribution](continuous/gamma.R)
+
+* [Normal Distribution](continuous/norm.R)
+
+* [Student's T Distribution](continuous/t.R)
+
+* [Uniform Distribution](continuous/uniform.R)
+
+* [Weibull Distribution](continuous/weibull.R)
